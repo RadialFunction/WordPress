@@ -1,4 +1,5 @@
 {
 	"name": "radialfunction/unicourt-blog",
-	"description": "Blog for UniCourt"
+	"description": "Blog for UniCourt",
+	"license": "GPL-2.0"
 }
